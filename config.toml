@@ -1,4 +1,4 @@
-theme: "smol"
-baseURL: https://csdaw.github.io/blog
-languageCode: en-au
-title: Big Whoop
+theme = "smol"
+baseURL = "https://csdaw.github.io/blog"
+languageCode = "en-au"
+title = "Charlotte Dawson"
